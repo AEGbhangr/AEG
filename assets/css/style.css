@@ -805,7 +805,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #schedule .nav-tabs li {
-  display: inline-block;
+  display: block;
   margin-bottom: 0;
 }
 
@@ -815,7 +815,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   background-color: #0e1b4d;
   color: #fff;
-  padding: 10px 50px;
+  padding: 10px 10px;
 }
 
 @media (max-width: 991px) {
