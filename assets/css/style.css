@@ -805,7 +805,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #schedule .nav-tabs li {
-  display: block;
+  display: inline-block;
   margin-bottom: 0;
 }
 
