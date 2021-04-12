@@ -799,7 +799,7 @@ h1, h2, h3, h4, h5, h6 {
 #schedule .nav-tabs {
   text-align: center;
   margin: auto;
-  display: block;
+  display: inline-flex;
   border-bottom: 0;
   margin-bottom: 30px;
 }
@@ -807,6 +807,8 @@ h1, h2, h3, h4, h5, h6 {
 #schedule .nav-tabs li {
   display: inline-block;
   margin-bottom: 0;
+  margin-right: 10px;
+ list-style-type:none;
 }
 
 #schedule .nav-tabs a {
@@ -815,7 +817,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   background-color: #0e1b4d;
   color: #fff;
-  padding: 10px 10px;
+  padding: 10px 100px;
 }
 
 @media (max-width: 991px) {
