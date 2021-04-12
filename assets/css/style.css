@@ -464,7 +464,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: rgba(6, 12, 34, 0.8);
+  background: url("https://github.com/akhilasank/AEG/blob/main/assets/img/hero-bg.jpg") top center;
   position: absolute;
   bottom: 0;
   top: 0;
