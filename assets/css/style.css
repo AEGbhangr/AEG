@@ -21,7 +21,7 @@ a {
 }
 
 a:hover, a:active, a:focus {
-  color: #f8234a;
+  color: #BF9E32;
   outline: none;
   text-decoration: none;
 }
@@ -79,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #f94a6a;
+  background: #EDC43E;
   color: #fff;
 }
 
@@ -524,7 +524,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#f82249 50%, rgba(101, 111, 150, 0.15) 52%);
+  background: radial-gradient(#D4AF37 50%, rgba(101, 111, 150, 0.15) 52%);
   border-radius: 50%;
   display: block;
   position: relative;
@@ -570,7 +570,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .play-btn:hover::after {
-  border-left: 15px solid #f82249;
+  border-left: 15px solid #D4AF37;
   transform: scale(20);
 }
 
@@ -1055,7 +1055,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #f82249;
+  border: 1px solid #D4AF37;
 }
 
 #gallery .swiper-pagination .swiper-pagination-bullet-active {
