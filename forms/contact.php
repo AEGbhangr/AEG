@@ -29,7 +29,7 @@
     'host' => 'smtp.gmail.com',
     'username' => 'aegbhangra.nyc@gmail.com',
     'password' => 'AnakhE123',
-    'port' => '587'
+    'port' => '465'
   );
   
 
